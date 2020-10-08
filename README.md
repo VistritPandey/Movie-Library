@@ -1,2 +1,2 @@
 # Movie Library
- It is a kind of a movie library, somewhat similar to Netflix. It is made using Javascript and themovieb API
+ It is a movie library made using Javascript and themovieb API
